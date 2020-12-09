@@ -1,6 +1,6 @@
 ## - Projeto: Magia e esoterismo vibracional.
 
-![image](https://github.com/lucaskkergg/Feira_de_Solucoes_Grupo_Delta/blob/master/git/1.jpg)
+![image](https://github.com/lucaskkergg/GitHub_do_projeto/blob/master/git/1.jpg)
 
 ## - Tamanhos:
 
